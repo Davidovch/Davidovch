@@ -1,4 +1,7 @@
-### Hi there 👋
+### **Olá e bem-vindo** 👋
+Sou um estudante de desenvolvimento de sistemas
+Estudando a língua C
+🇧🇷C2 🇬🇧C1 
 
 <!--
 **Davidovch/Davidovch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
