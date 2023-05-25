@@ -1,6 +1,6 @@
 ### **Olá e bem-vindo** 👋
 - Sou um estudante de desenvolvimento de sistemas
-- Estudando a língua C
+- Estudando as linguagens C e Python
 - 🇧🇷C2 🇬🇧B2 
 
 <!--
